@@ -1,0 +1,4 @@
+axios
+@chakra-ui/react@2
+react
+vite
